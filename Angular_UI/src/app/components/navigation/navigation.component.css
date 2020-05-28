@@ -1,0 +1,15 @@
+.nav-bar {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.example-icon {
+    padding: 0 14px;
+  }
+
+  .flex-container {
+    justify-content: center;
+  }
